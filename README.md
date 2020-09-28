@@ -39,7 +39,7 @@ The `children` parameter receives the slides to show, each slide contains the fo
 [
   {
     title: "First Demo",
-    description: "Awesome Slider... Fisrt position",
+    description: "Awesome Slider... First position",
     imgURL: "https://www.example1.com/img1.jpg",
   },
   {
