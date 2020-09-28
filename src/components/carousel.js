@@ -32,7 +32,7 @@ const CarouselComp = (props) => {
   const displayItems = () => {
     const items = (
       <Carousel
-        interval={Number(delay)}
+        interval={Number.isInteger(delay) ? delay : null}
         nextLabel={"Next"}
         prevLabel={"Previous"}
         activeIndex={index}
