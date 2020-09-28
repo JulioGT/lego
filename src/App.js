@@ -7,7 +7,7 @@ function App() {
   const slides = [
     {
       title: "First Demo",
-      description: "Awesome Slider... Fisrt position",
+      description: "Awesome Slider... First position",
       imgURL:
         "https://www.lego.com/cdn/cs/set/assets/blta3c996183861b559/10275-202009-Hero-Standard-Large-6.jpg?fit=crop&format=jpg&quality=80&width=1600&height=500&dpr=1",
     },
