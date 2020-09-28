@@ -1,9 +1,9 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import CarouselComp from "./components/carousel";
 
 function App() {
+  //Simulates the sliders to display
   const slides = [
     {
       title: "First Demo",
