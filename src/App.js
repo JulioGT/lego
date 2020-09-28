@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <CarouselComp delay={"asd"} children={slides} />
+        <CarouselComp delay={600} children={slides} />
       </header>
     </div>
   );

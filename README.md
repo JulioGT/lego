@@ -23,7 +23,7 @@ The `Carousel` Component receives two props:
 1. delay
 2. children
 
-The `delay` parameter receives the amount of time (in miliseconds) to delay between automatically cycling an item. If a non-integer value is sent the it won't change to the next slide, you have to do it manually by clicking "Next" or "Previous".
+The `delay` parameter receives the amount of time (in milliseconds) to delay between automatically cycling an item. If a non-integer value is sent, the app will not show the next slide. Instead, you will have to do it manually by clicking "Next" or "Previous".
 
 The `children` parameter receives the slides to show, each slide contains the following fields.
 
